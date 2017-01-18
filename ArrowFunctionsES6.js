@@ -23,3 +23,6 @@ var logUpperCase = function() {
 }
 
 logUpperCase.call({ string: 'es6 is better' })()
+
+
+// run it using node ArrowFunctionES6.js
